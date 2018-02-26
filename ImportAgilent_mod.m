@@ -1,4 +1,3 @@
-% Marco Bug 
 % ------------------------------------------------------------------------
 % Method      : ImportAgilent
 % Description : Import data stored in Agilent (.D, .MS, .CH) files
